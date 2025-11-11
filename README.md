@@ -1,3 +1,3 @@
-My first small project.
+My first small project using react.
 <br>
 Background Changer.
